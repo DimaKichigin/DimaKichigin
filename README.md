@@ -39,7 +39,7 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I am learning frontend development at the moment on the 
   <a href="https://ru.hexlet.io/u/dmitrii_kichigin">
-    <img src="https://img.shields.io/badge/Hexlet-blue?style=flat&logo=hexlet&logoColor=white" alt="Hexlet Badge"/> 
+    <img src="https://img.shields.io/badge/Hexlet-blue?style=plastic&logo=hexlet&logoColor=white" alt="Hexlet Badge"/> 
   </a>
  platform.
 
