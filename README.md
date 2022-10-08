@@ -49,7 +49,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 -->
-[![Hexlet Badge](https://img.shields.io/badge/-hexlet-blue?style=flat&logo=Hexlet&logoColor=white)](your-linkedin-url)
 
 
 ![snake gif](https://github.com/gruselhaus/gruselhaus/blob/output/github-contribution-grid-snake.svg)
