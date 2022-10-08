@@ -5,9 +5,6 @@
   THERE
 <!--<img src="https://media.giphy.com/media/z7TxRm5LBblTWf78nD/giphy.gif" width="150px"/>-->
 </h1>
-<h1>
-
-</h1>
 </div>
 
 <div id="header" align="center">
@@ -32,8 +29,30 @@
 
  </div>
  
+<!--
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="300"/>
+</div>
+-->
 
+### :man_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I am learning frontend development at the moment on the 
+  <a href="https://ru.hexlet.io/u/dmitrii_kichigin">
+    <img src="https://img.shields.io/badge/Hexlet-blue?style=flat&logo=hexlet&logoColor=white" alt="Hexlet Badge"/> 
+  </a>
+ platform.
+
+<!-- - :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+-->
+[![Hexlet Badge](https://img.shields.io/badge/-hexlet-blue?style=flat&logo=Hexlet&logoColor=white)](your-linkedin-url)
 
 
 ![snake gif](https://github.com/gruselhaus/gruselhaus/blob/output/github-contribution-grid-snake.svg)
+
+
 
