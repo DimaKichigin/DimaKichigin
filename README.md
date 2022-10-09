@@ -19,8 +19,8 @@
   <a href="https://www.youtube.com/channel/UCBTcw_6J3FtYUHZEzTuERLw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="link">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+  <a href="https://vk.com/id83828580">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/> 
   </a>
  </div>
 
@@ -43,12 +43,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </a>
  platform.
 
-<!-- - :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring technical documentation, video and books.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I sometimes play browser code games, solve LeetCode and Codebattle.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
--->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -64,7 +62,14 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimaKichigin&theme=nightowl&border_radius=5&date_format=n%2Fj%5B%2FY%5D&ring=7AF6FF)](https://git.io/streak-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/&langs_count=10sername=DimaKichigin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKichigin&langs_count=8&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### :writing_hand: Blog Posts :
+
+- <a href="[https://t.me/d1mak1ch1g1n](https://t.me/dmitrii_kichigin)">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
+  </a>
+
 
 ![snake gif](https://github.com/gruselhaus/gruselhaus/blob/output/github-contribution-grid-snake.svg)
 
