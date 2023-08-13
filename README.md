@@ -22,10 +22,7 @@
   <a href="https://vk.com/id83828580">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/> 
   </a>
-   <a href="https://app.slack.com/client/T019FJ8M43H/C021UJXTWV6">
-    <img src="https://img.shields.io/badge/Slack-white?style=for-the-badge&logo=slack&logoColor=green" alt="Slack Badge"/> 
-  </a>
- </div>
+   </div>
 
  <div align="center">
  <img src="https://komarev.com/ghpvc/?username=DimaKichigin&style=for-the-badge&color=blueviolet" alt="Komarev Badge"/>
@@ -80,6 +77,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jque
 
 - <a href="https://dzen.ru/id/6208e9e7ebf82d5853e4f0ec">
    <img src="https://img.shields.io/badge/YandexZen-black?style=plastic&logo=yandexzen&logoColor=white" alt="Yandex Zen Badge"/> 
+<a href="http://www.w3.org/2000/svg">
+- <a href="[https://dzen.ru/id/6208e9e7ebf82d5853e4f0ec](https://teletype.in/@dimakichigin)">
+   <img src="https://img.shields.io/badge/teletype-black?style=plastic&logo=teletype&logoColor=white" alt="Teletype Badge"/> 
 <a href="http://www.w3.org/2000/svg">
 
 
