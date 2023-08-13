@@ -77,14 +77,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jque
 
 - <a href="https://dzen.ru/id/6208e9e7ebf82d5853e4f0ec">
    <img src="https://img.shields.io/badge/YandexZen-black?style=plastic&logo=yandexzen&logoColor=white" alt="Yandex Zen Badge"/> 
-<a href="http://www.w3.org/2000/svg">
+<a href="">
 
 - <a href="https://teletype.in/@dimakichigin">
-   <img src="https://img.shields.io/badge/Teletype?style=plastic&logo=Teletype&logoColor=white" alt="Teletype Badge"/> 
-<a href="http://www.w3.org/2000/svg">
+   <img src="https://img.shields.io/badge/Teletype-black?style=plastic&logo=Teletype&logoColor=white" alt="Teletype Badge"/> 
+<a href="">
 
 
-![snake gif](https://github.com/gruselhaus/gruselhaus/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/gruselhaus/gruselhaus/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
