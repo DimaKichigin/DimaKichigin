@@ -80,8 +80,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jque
 <a href="http://www.w3.org/2000/svg">
 
 - <a href="https://teletype.in/@dimakichigin">
-   <img src="https://img.shields.io/badge/teletype-black?style=plastic&logo=Teletype&logoColor=white" alt="Teletype Badge"/> 
-<a href="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/mh7vb6z5lipnktnjvy2h">
+   <img src="https://img.shields.io/badge/Teletype?style=plastic&logo=Teletype&logoColor=white" alt="Teletype Badge"/> 
+<a href="http://www.w3.org/2000/svg">
 
 
 ![snake gif](https://github.com/gruselhaus/gruselhaus/blob/output/github-contribution-grid-snake.svg)
