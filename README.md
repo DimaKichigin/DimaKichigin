@@ -7,27 +7,28 @@
 </h1>
 </div>
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/jF1oqkXJL0Mda/giphy.gif" width="500"/>
-</div>
+</div> -->
 
 <div id="badges" align="center">
 
   <a href="https://t.me/d1mak1ch1g1n">
-    <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
+    <img src="https://img.shields.io/badge/-9cf?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
   </a>
-  <a href="https://www.youtube.com/channel/UCBTcw_6J3FtYUHZEzTuERLw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.behance.net/dimakichigin">
+    <img src="https://img.shields.io/badge/-black?style=plastic&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
   <a href="https://vk.com/id83828580">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/> 
+    <img src="https://img.shields.io/badge/-blue?style=plastic&logo=vk&logoColor=white" alt="VK Badge"/> 
   </a>
+   <img src="https://komarev.com/ghpvc/?username=DimaKichigin&style=plastic&color=blueviolet" alt="Komarev Badge"/>
    </div>
 
- <div align="center">
- <img src="https://komarev.com/ghpvc/?username=DimaKichigin&style=for-the-badge&color=blueviolet" alt="Komarev Badge"/>
+ <!--<div align="right">
 
- </div>
+
+ </div> -->
  
 <!--
 <div align="center">
