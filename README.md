@@ -12,8 +12,9 @@
 </div> -->
 
 <div id="badges" align="center">
-
-  <a href="https://t.me/d1mak1ch1g1n">
+  
+  <img src="https://komarev.com/ghpvc/?username=DimaKichigin&style=plastic&color=blueviolet" alt="Komarev Badge"/>
+    <a href="https://t.me/d1mak1ch1g1n">
     <img src="https://img.shields.io/badge/-9cf?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
   </a>
   <a href="https://www.behance.net/dimakichigin">
@@ -22,7 +23,10 @@
   <a href="https://vk.com/id83828580">
     <img src="https://img.shields.io/badge/-blue?style=plastic&logo=vk&logoColor=white" alt="VK Badge"/> 
   </a>
-   <img src="https://komarev.com/ghpvc/?username=DimaKichigin&style=plastic&color=blueviolet" alt="Komarev Badge"/>
+  <a href="https://www.youtube.com/@dima-kichigin">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBTcw_6J3FtYUHZEzTuERLw">
+  </a>
+  
    </div>
 
  <!--<div align="right">
