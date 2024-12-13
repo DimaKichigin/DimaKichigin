@@ -42,7 +42,6 @@
 <!-- ### :man_technologist: About Me : -->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+Me+:)](https://git.io/typing-svg)
 
-
 - 👨🏼‍💻 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :seedling: I like to comprehend technical documentation, books and videos.
@@ -71,13 +70,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> </a>   
   </div>
+
   <!-- ### :fire: My Stats : -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+Stats+:)](https://git.io/typing-svg)
   
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dima-Kichigin)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DimaKichigin&theme=nightowl&border_radius=5&date_format=n%2Fj%5B%2FY%5D&ring=7AF6FF)](https://git.io/streak-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKichigin&theme=nightowl&border_radius=5&langs_count=6&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
