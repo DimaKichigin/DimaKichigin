@@ -42,16 +42,12 @@
 <!-- ### :man_technologist: About Me : -->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+Me+:)](https://git.io/typing-svg)
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I am learning frontend development at the moment on the 
-  <a href="https://ru.hexlet.io/u/dmitrii_kichigin">
-    <img src="https://img.shields.io/badge/Hexlet-blue?style=plastic&logo=hexlet&logoColor=white" alt="Hexlet Badge"/> 
-  </a>
- platform.
 
-- :seedling: Exploring technical documentation, video and books.
+- 👨🏼‍💻 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :zap: In my free time, I sometimes play browser code games, solve LeetCode and Codebattle.
+- :seedling: I like to comprehend technical documentation, books and videos.
+
+- :zap: In my free time I learn new technologies and at the same time create websites.
 <!-- ### :hammer_and_wrench: Languages and Tools : -->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Languages+And+Tools+:)](https://git.io/typing-svg)
  
