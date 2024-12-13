@@ -14,20 +14,13 @@
 <div id="badges" align="center">
   
   <img src="https://komarev.com/ghpvc/?username=DimaKichigin&style=plastic&color=blueviolet" alt="Komarev Badge"/>
-    <a href="https://t.me/d1mak1ch1g1n">
-    <img src="https://img.shields.io/badge/-9cf?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
-  </a>
-  <a href="https://www.behance.net/dimakichigin">
-    <img src="https://img.shields.io/badge/-black?style=plastic&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
-  <a href="https://vk.com/id83828580">
-    <img src="https://img.shields.io/badge/-blue?style=plastic&logo=vk&logoColor=white" alt="VK Badge"/> 
-  </a>
-  <a href="https://www.youtube.com/@dima-kichigin">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBTcw_6J3FtYUHZEzTuERLw">
-  </a>
   
-   </div>
+  <a href="https://t.me/d1mak1ch1g1n"><img src="https://img.shields.io/badge/-9cf?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <a href="https://www.behance.net/dimakichigin"><img src="https://img.shields.io/badge/-black?style=plastic&logo=behance&logoColor=white" alt="Behance Badge"/></a>
+  <a href="https://vk.com/id83828580"><img src="https://img.shields.io/badge/-blue?style=plastic&logo=vk&logoColor=white" alt="VK Badge"/></a>
+  <a href="https://www.youtube.com/@dima-kichigin"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBTcw_6J3FtYUHZEzTuERLw"></a>
+  
+</div>
 
  <!--<div align="right">
 
