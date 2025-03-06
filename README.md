@@ -15,7 +15,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=DimaKichigin&style=plastic&color=blueviolet" alt="Komarev Badge"/>
   
-  <a href="https://t.me/d1mak1ch1g1n"><img src="https://img.shields.io/badge/-9cf?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <a href="https://t.me/d1mak1ch1g1n" target="_blank"><img src="https://img.shields.io/badge/-9cf?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
   <a href="https://www.behance.net/dimakichigin"><img src="https://img.shields.io/badge/-black?style=plastic&logo=behance&logoColor=white" alt="Behance Badge"/></a>
   <a href="https://vk.com/id83828580"><img src="https://img.shields.io/badge/-blue?style=plastic&logo=vk&logoColor=white" alt="VK Badge"/></a>
   <a href="https://www.instagram.com/enjoy_life_1_2_3/" target="_blank"><img src="https://img.shields.io/badge/-FFDC80?style=plastic&logo=instagram&logoColor=C13584" alt="Instagram Badge"/></a>
