@@ -18,8 +18,8 @@
   <a href="https://t.me/d1mak1ch1g1n" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-9cf?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
   <a href="https://www.behance.net/dimakichigin"><img src="https://img.shields.io/badge/-black?style=plastic&logo=behance&logoColor=white" alt="Behance Badge"/></a>
   <a href="https://vk.com/id83828580"><img src="https://img.shields.io/badge/-blue?style=plastic&logo=vk&logoColor=white" alt="VK Badge"/></a>
-  <a href="https://www.instagram.com/enjoy_life_1_2_3/" target="_blank"><img src="https://img.shields.io/badge/-FFDC80?style=plastic&logo=instagram&logoColor=C13584" alt="Instagram Badge"/></a>
-  <a href="https://youtube.com/@enjoy_life_1_2_3?si=ur3tMmIvHaIb4sLu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBTcw_6J3FtYUHZEzTuERLw"></a>
+  <a href="https://www.instagram.com/enjoy_life_1_2_3/" target="_blank"><img src="https://img.shields.io/badge/-45007a?style=plastic&logo=instagram&logoColor=eea5e5" alt="Instagram Badge"/></a>
+  <a href="https://youtube.com/@enjoy_life_1_2_3?si=ur3tMmIvHaIb4sLu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPzVz7Ho60FsQ_22j0Fd3pg"></a>
   
 </div>
 
