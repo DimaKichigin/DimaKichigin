@@ -89,16 +89,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Blog+Posts+:)](https://git.io/typing-svg)
 
-- <a href="https://dzen.ru/id/6208e9e7ebf82d5853e4f0ec">
-   <img src="https://img.shields.io/badge/YandexZen-white?style=plastic&logo=yandexzen&logoColor=white" alt="Yandex Zen Badge"/> 
-<a/>
-
 - <a href="https://teletype.in/@dimakichigin">
    <img src="https://img.shields.io/badge/Teletype-white?style=plastic&logo=Teletype&logoColor=white" alt="Teletype Badge"/> 
 <a/>
 
 - <a href="https://t.me/dima_kichigin">
-   <img src="https://img.shields.io/badge/Telegram channel-white?style=plastic&logo=Telegram&logoColor=light blue" alt="Telegram Badge"/> 
+   <img src="https://img.shields.io/badge/Telegram channel-white?style=plastic&logo=Telegram&logoColor=blue" alt="Telegram Badge"/> 
 <a/>
 
 <!-- ![snake gif](https://github.com/gruselhaus/gruselhaus/blob/output/github-contribution-grid-snake.svg) -->
